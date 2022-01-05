@@ -1,6 +1,6 @@
 ### Hi there, I'm Irvan Alfaridzi - aka [irvanalfaridzi][website] 👋 
 
-[![Website](https://alfaridzi.site)](https://alfaridzi.site)
+[![Website](https://img.shields.io/website?label=alfaridzi.site&style=for-the-badge&url=https%3A%2F%2Falfaridzi.site)](https://alfaridzi.site)
 
 ## I'm a Flutter Enthusiast
 
