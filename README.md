@@ -36,7 +36,7 @@
 <br />
 <br />
 
-[![Irvan Alfaridzi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&html&title_color=000000&text_color=000000)](https://github.com/irvanalfaridzi)
+[![Irvan Alfaridzi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irvanalfaridzi)](https://github.com/irvanalfaridzi)
 
 [![Irvan Alfaridzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanalfaridzi)](https://github.com/irvanalfaridzi)
 
