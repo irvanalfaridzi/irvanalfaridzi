@@ -34,10 +34,9 @@
 
 <br />
 <br />
+<br />
 
 [![Irvan Alfaridzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanalfaridzi)](https://github.com/anuraghazra/github-readme-stats)
-
-</details> -->
 
 [website]: https://alfaridzi.site
 [instagram]: https://instagram.com/irvanalfaridzi
