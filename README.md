@@ -4,7 +4,7 @@
 
 ## I'm a Flutter Enthusiast
 
-- I’m currently Mobile Apps Developer
+- I’m currently Mobile Apps Developer with Flutter 
 - I'm open any project freelance or opportunity
 
 ### Connect with me:
