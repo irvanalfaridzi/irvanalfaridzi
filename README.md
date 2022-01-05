@@ -35,12 +35,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Irvan Alfaridzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanalfaridzi)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="irvanalfaridzi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=irvanalfaridzi&show_icons=true&hide_border=true" />
-
-</details>
+</details> -->
 
 [website]: https://alfaridzi.site
 [instagram]: https://instagram.com/irvanalfaridzi
