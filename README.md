@@ -46,3 +46,8 @@
 [linkedin]: https://linkedin.com/in/irvan-alfaridzi
 [telegram]: t.me/irvanalfaridzi
 [github]: https://github.com/irvanalfaridzi
+
+<br />
+<br />
+<br />
+[![@irvanalfaridzi's Holopin board](https://holopin.me/irvanalfaridzi)](https://holopin.io/@irvanalfaridzi)
