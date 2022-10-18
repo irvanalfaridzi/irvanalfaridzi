@@ -48,6 +48,5 @@
 [github]: https://github.com/irvanalfaridzi
 
 <br />
-<br />
-<br />
-[![@irvanalfaridzi's Holopin board](https://holopin.io/api/user/board?user=irvanalfaridzi)](https://holopin.io/@irvanalfaridzi)
+
+[![@irvanalfaridzi's Holopin board](https://www.holopin.io/api/user/board?user=irvanalfaridzi)](https://holopin.io/@irvanalfaridzi)
