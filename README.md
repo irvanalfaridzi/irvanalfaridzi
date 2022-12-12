@@ -1,15 +1,24 @@
 ### Hi there, I'm Irvan Alfaridzi - aka [irvanalfaridzi][website] 👋 
 
-[![Website](https://img.shields.io/website?label=alfaridzi.site&style=for-the-badge&url=https%3A%2F%2Falfaridzi.site)](https://alfaridzi.site)
+[![Website](https://img.shields.io/website?label=irvanalfaridzi.com&style=for-the-badge&url=https%3A%2F%2Firvanalfaridzi.com)](https://irvanalfaridzi.com)
 
 ## I'm a Flutter Enthusiast
 
-- I’m currently Mobile Apps Developer with Flutter 
-- I'm open any project freelance or opportunity
+I'm a Mobile Developer living in Surabaya, Indonesia 🇮🇩 
+
+Currently working remotely as Software Development Engineer at [The Software Practice](https://thesoftwarepractice.com/) Singapore 🇸🇬
+
+I have a great interest in Mobile Development with Flutter, Kotlin, and Swift
+
+During my free time, I like to do an open-source projects and do my hobby 🏀 ⚽️ 🏸
+
+I'm open any project freelance, project research or anything that related in Mobile Apps
+
+Hit my personnal website 👉🏻 [irvanalfaridzi.com][website]
 
 ### Connect with me:
 
-[<img align="left" alt="alfaridzi.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="irvanalfaridzi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="irvanalfaridzi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="irvanalfaridzi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="irvanalfaridzi | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -41,7 +50,7 @@
 
 [![Irvan Alfaridzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=irvanalfaridzi)](https://github.com/irvanalfaridzi)
 
-[website]: https://alfaridzi.site
+[website]: https://irvanalfaridzi.com
 [instagram]: https://instagram.com/irvanalfaridzi
 [linkedin]: https://linkedin.com/in/irvan-alfaridzi
 [telegram]: t.me/irvanalfaridzi
