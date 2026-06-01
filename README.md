@@ -2,11 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=irvanalfaridzi.com&style=for-the-badge&url=https%3A%2F%2Firvanalfaridzi.com)](https://irvanalfaridzi.com)
 
-## I'm a Flutter Enthusiast
+## I'm a Software Engineer living in Bandung, Indonesia 🇮🇩
 
-I'm a Mobile Developer living in Surabaya, Indonesia 🇮🇩 
+Currently working as a Software Development Engineer at [The Software Practice](https://thesoftwarepractice.com/) Singapore 🇸🇬
 
-Currently working remotely as Software Development Engineer at [The Software Practice](https://thesoftwarepractice.com/) Singapore 🇸🇬
+Most recently, transitioned into a Forward Deployed Engineer role, embedded directly within a GovTech Singapore engineering team building and maintaining government-grade production systems.
+
+Currently working with:
+React · Node.js (Koa) · TypeScript · PostgreSQL · Playwright · Jest · AWS
+
+Also experienced in:
+Vue.js · Svelte · .NET/C# · Flutter · Dart
 
 I have a great interest in Mobile Development with Flutter, Kotlin, and Swift
 
